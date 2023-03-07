@@ -46,6 +46,8 @@ public class Queen {
         else if(col == row){
             diagonal1Start = new int[]{0, 0};
             diagonal1End = new int[]{7, 7};
+            if (row < 4){}
+            else if (row > 3){}
         }
         for(int i = )
         return true;
